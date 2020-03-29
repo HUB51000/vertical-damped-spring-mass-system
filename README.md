@@ -1,4 +1,4 @@
-# vertical-dampened-spring-mass-system
+# vertical-damped-spring-mass-system
 Plot of displacement, velocity and acceleration versus time graph for a vertical, dampened single spring, single mass system in MATLAB. Assume, (All of the folowing constants are in SI units)
 
 acceleration due to gravity(g) = 9.81 m/s^2  
